@@ -1,2 +1,1 @@
-# crawler_using_spring
-Web Api Crawler implemented using spring framework.
+# Public_API_Crawler
